@@ -58,7 +58,7 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 
 > Lembre-se que é necessário implementar o CRUD de pelo menos duas entidades.
 
-## :neckbeard: Rotas da API REST utilizadas
+## Rotas da API REST utilizadas
 
 | Método HTTP | URL |
 | --- | --- |
