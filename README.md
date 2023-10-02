@@ -10,6 +10,7 @@ Site de rastreamento de pacotes dos correios.
   
 ## Papéis ou tipos de usuário da aplicação
 
+- Usuário não registrado
 - Usuário registrado
 - Administrador
 
@@ -35,7 +36,7 @@ Site de rastreamento de pacotes dos correios.
 
 ----
 
-## :desktop_computer: Tecnologias e frameworks utilizados
+## Tecnologias e frameworks utilizados
 
 **Frontend:**
 
@@ -46,7 +47,7 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 Lista as tecnologias, frameworks e bibliotecas utilizados.
 
 
-## :shipit: Operações implementadas para cada entidade da aplicação
+## Operações implementadas para cada entidade da aplicação
 
 
 | Entidade | Criação | Leitura | Atualização | Remoção
