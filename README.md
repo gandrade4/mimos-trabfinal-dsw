@@ -1,24 +1,31 @@
-# :checkered_flag: NOME DO PROJETO
+# MIMOS
 
-Breve descrição do que o seu projeto faz.
+Site de rastreamento de pacotes dos correios.
 
-## :technologist: Membros da equipe
+## Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+- 470679 - Carlos Eduardo Almeida Feitosa - DD
+- 427572 - Francisca Milena Freire de Sousa - DD
+- 421599 - Gabriel Leitão de Andrade - DD
+  
+## Papéis ou tipos de usuário da aplicação
 
-## :people_holding_hands: Papéis ou tipos de usuário da aplicação
+- Usuário registrado
+- Administrador
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+## Entidades ou tabelas do sistema
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+- Remetente
+- Destinatário
+- Correios
 
-## :spiral_calendar: Entidades ou tabelas do sistema
+## Principais funcionalidades da aplicação
 
-Liste as principais entidades do sistema.
-
-## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
-
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+- Usuário sem cadastro poderá rastrear um pacote
+- Usuário cadastrado poderá reastrear diversos pacotes e ficar salvo em sua conta
+- Usuário cadastrado poderá registrar um pacote que ele enviou
+- Usuário cadastrado terá acesso a um histórico de todas suas movimentações
+- Administrador poderá atribuir pacotes a ID específicos, registrar e remover pacotes
 
 
 ----
@@ -42,11 +49,11 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 ## :shipit: Operações implementadas para cada entidade da aplicação
 
 
-| Entidade| Criação | Leitura | Atualização | Remoção |
-| --- | --- | --- | --- | --- |
-| Entidade 1 | X |  X  |  | X |
-| Entidade 2 | X |    |  X | X |
-| Entidade 3 | X |    |  |  |
+| Entidade | Criação | Leitura | Atualização | Remoção
+| :---:   | :---: | :---: | :---: | :---: |
+| Remetente | x | x | |  |
+| Destinatário | x | x | | | 
+| Correios | x | | x | x |
 
 > Lembre-se que é necessário implementar o CRUD de pelo menos duas entidades.
 
